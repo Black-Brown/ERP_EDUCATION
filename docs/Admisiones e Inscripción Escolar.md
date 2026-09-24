@@ -65,7 +65,17 @@ La formalización de la matrícula ocurre con la integración de los datos en el
 
 #### 11\. Actores y Responsabilidades en el Proceso
 
-**Matriz de Actores y Responsabilidades**| Actor | Función específica en el proceso de admisión e inscripción || \------ | \------ || **Director (1)** | Autorizar el plan general de inscripción, supervisar la legalidad de los cupos y gestionar fondos mediante la Junta de Centro. || **Coordinador Pedagógico (2)** | Validar la distribución de carga horaria, supervisar la aplicación de diagnósticos y asegurar la alineación con el currículo. || **Maestros Titulados (31)** | Ejecutar la evaluación diagnóstica, organizar los listados de grado y registrar la asistencia inicial. || **Digitador (1 \- Vacante)** | (Función Crítica) Carga de datos en el SAS y verificación de integridad estadística. Actualmente es un rol ausente. || **Orientadora/Psicóloga (2)** | Realizar entrevistas familiares, aplicar diagnósticos psicopedagógicos y detectar riesgos sociales. || **Personal Administrativo (48)** | Apoyar la logística de recepción de documentos, mantenimiento de planta física y servicios de bienestar durante la inscripción. || **APMAE** | Canalizar la comunicación con las familias y apoyar la reestructuración de directivas durante el mes de octubre. |
+**Matriz de Actores y Responsabilidades**
+
+| Actor | Función específica en el proceso de admisión e inscripción |
+| :--- | :--- |
+| **Director (1)** | Autorizar el plan general de inscripción, supervisar la legalidad de los cupos y gestionar fondos mediante la Junta de Centro. |
+| **Coordinador Pedagógico (2)** | Validar la distribución de carga horaria, supervisar la aplicación de diagnósticos y asegurar la alineación con el currículo. |
+| **Maestros Titulados (31)** | Ejecutar la evaluación diagnóstica, organizar los listados de grado y registrar la asistencia inicial. |
+| **Digitador (1 - Vacante)** | *(Función Crítica)* Carga de datos en el SAS y verificación de integridad estadística. Actualmente es un rol ausente. |
+| **Orientadora/Psicóloga (2)** | Realizar entrevistas familiares, aplicar diagnósticos psicopedagógicos y detectar riesgos sociales. |
+| **Personal Administrativo (48)** | Apoyar la logística de recepción de documentos, mantenimiento de planta física y servicios de bienestar durante la inscripción. |
+| **APMAE** | Canalizar la comunicación con las familias y apoyar la reestructuración de directivas durante el mes de octubre. |
 
 #### 
 
